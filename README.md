@@ -9,14 +9,13 @@ A deep learning system that classifies weather conditions from images using CNN 
 
 ## Table of Contents
 1. Features
-2. Screenshots
-3. Dataset
-4. Model Architecture
-5. Installation (Windows)
-6. Usage
-7. Training
-8. Deployment
-9. License
+2. Dataset
+3. Model Architecture
+4. Installation (Windows)
+5. Usage
+6. Training
+7. Deployment
+8. License
 
 ## Features
 - CNN model trained on 5 weather classes
@@ -24,13 +23,10 @@ A deep learning system that classifies weather conditions from images using CNN 
 - Image preprocessing pipeline
 - Both local and IBM Cloud deployment options
 
-## Screenshots
-![Web Interface](https://drive.google.com/uc?export=view&id=1abc123sampleimageID)
-*Replace with your actual screenshot*
 
 ## Dataset
 Download the dataset from:  
-[Google Drive Link](https://drive.google.com/sample_dataset_link)  
+[Google Drive Link](https://drive.google.com/drive/folders/1-9mR3XPZnXOxXcAyccblcOtDuX3FUt4L?usp=sharing)  
 *(Will be provided in final version)*
 
 Contains:
@@ -68,7 +64,7 @@ pip install -r requirements.txt
 ```
 
 4. Download model file:
-- [weather_model.h5](https://drive.google.com/sample_model_link)
+- [weather_model.h5](https://drive.google.com/file/d/1pCDi1jkeIliMAbCG7RcoOAcWD544pQuL/view?usp=sharing)
 - Place in project root folder
 
 ## Usage
